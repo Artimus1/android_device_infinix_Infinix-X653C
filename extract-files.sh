@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=Infinix-X653C
+DEVICE=X653C
 VENDOR=infinix
 
 # Load extract_utils and do some sanity checks
